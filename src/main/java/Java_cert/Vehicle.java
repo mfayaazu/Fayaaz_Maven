@@ -2,7 +2,7 @@ package Java_cert;
 
 class Vehicle {
 
-  int distance;   //line n1 error at line 1
+  int distance;   //line n1 compilation Error at line 1
 
   Vehicle(int x) {
     this.distance = x;
