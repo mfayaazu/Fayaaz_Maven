@@ -37,3 +37,8 @@ class Rectangle extends Square {
         System.out.println("Rectangle");
     }
 }
+
+
+
+//Issues solved when I inserted super(); super.side=x and used Public in Rectangle class are method
+//Option E and F are correct Answers
