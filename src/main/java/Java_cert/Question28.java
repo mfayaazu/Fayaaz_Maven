@@ -22,4 +22,4 @@ public class Question28 {
 //      Unable to Scan.
 
 // correct answer is C
-//Scanner Code will throw exception thats why code will skip printer code and go to catch block directly. try reversing the flow of execution
+//Scanner Code will throw exception that's why code will skip printer code and go to catch block directly. try reversing the flow of execution
