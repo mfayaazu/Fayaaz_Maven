@@ -1,0 +1,24 @@
+ Which Action Can be used to load a database driver by using JDBC 3.0?
+
+    A. Add the driver class to the META-INF/services folder if the JAR File.
+    B. Include the JDBC driver class in a jdbc.properties file.
+    C. Use the java.lang.Class.forName method to load driver class.
+    D. Use the DriverManager.getDriver method to load the driver class.
+
+
+Answer will be option: C
+
+Because:
+
+Prior to JDBC 4.0, the way to load the Driver was to use the forName method of the Class class.
+In the parameter, specify the name of the Driver (category path).
+The program will automatically call the DriverDriver’s registerDriver method to load (register) the Driver.
+
+Option A, which is the mechanism of JDBC 4.0,
+will be automatically loaded by writing the name of the Driver to the file “META-INF/services/java.sql.Driver”.
+
+Option B, there is no such usage.
+
+Option C, the correct way to load Driver.
+
+Option D, the getDriver method of the DriverManager class is just used to retrieve the loaded Driver object.
