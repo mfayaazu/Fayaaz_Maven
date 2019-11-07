@@ -1,0 +1,9 @@
+
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(—Ýì¹ýÿÿÿÿ8á÷Ì®ã-
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(çêä©øÿÿÿÿ8ÊŽÝ®ã-
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ê¿î¶ÿÿÿÿÿ8Ü·Þ®ã-
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£ñøµ
+bsquid:S2095"DUse try-with-resources or close this "Stream" in a "finally" clause.(ËÄ²ü8Ÿàë®ã-
+Osquid:S1612",Replace this lambda with a method reference.(µÑ´£úÿÿÿÿ8Ÿàë®ã-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(µÑ´£úÿÿÿÿ8Ÿàë®ã-

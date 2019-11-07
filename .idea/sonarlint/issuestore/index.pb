@@ -23,3 +23,21 @@ V
 &src/main/java/Java_cert/Question7.java,7\f\7ff535ebe3275294e642da8c6ae6f47e95f13ed3
 P
  src/main/java/Java_cert/Sum.java,9\7\975784ff4de7f4d1c07640ec4bcc036921793ad0
+P
+ src/main/java/Java_cert/Foo.java,4\f\4fde6ef88707d9aaed7bb0914b57398d700ada4a
+W
+'src/main/java/Java_cert/Question12.java,5\0\506a961b983edeab1df2e71eafc1da891ef51c16
+S
+#src/main/java/Java_cert/courses.txt,e\6\e6f756092be96494ebbb89d59465d380c3c57b39
+W
+'src/main/java/Java_cert/Question15.java,c\4\c48d3049523a135ac29feecff603e041c9a8986f
+T
+$src/main/java/Java_cert/country.java,6\b\6b9e2e8c0df7fc4646716a763bf8558ab7392448
+W
+'src/main/java/Java_cert/Question13.java,4\f\4f58d16f8516b5dec216ae048c661900fd0d825a
+W
+'src/main/java/Java_cert/Question16.java,9\0\908174e7083e2292f52d89fd768e52b75dcb1f06
+W
+'src/main/java/Java_cert/Question14.java,2\7\270e670b897cf34ba5f7961ba70de19acd88ef14
+W
+'src/main/java/Java_cert/Question11.java,2\2\2232557e8cac4d143ae0411f936a3cbb96f453f6

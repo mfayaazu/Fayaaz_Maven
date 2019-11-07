@@ -1,13 +1,13 @@
 
-isquid:CommentedOutCodeLine%"<This block of commented-out lines of code should be removed.(Ñœ—È8øžÉåá-
-nsquid:CommentedOutCodeLine5"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8ñÝÍåá-
-nsquid:CommentedOutCodeLine*"<This block of commented-out lines of code should be removed.(¹ŽÎñÿÿÿÿÿ8ÖœËåá-
-Xsquid:S1161":Add the "@Override" annotation above this method signature(ç³Àß8ëö±åá-
-rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£ñøµ
 V
 squid:S106	"9Replace this use of System.out or System.err by a logger.(ö éƒ8¹»“åá-
-isquid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(Ñœ—È8£œÀåá-
-isquid:CommentedOutCodeLine3"<This block of commented-out lines of code should be removed.(èÛ‘“8¸çÀåá-
 [
 squid:S106"9Replace this use of System.out or System.err by a logger.(ø“€åüÿÿÿÿ8þ¶²åá-
+nsquid:CommentedOutCodeLine*"<This block of commented-out lines of code should be removed.(¹ŽÎñÿÿÿÿÿ8ÖœËåá-
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£ñøµ
+Xsquid:S1161":Add the "@Override" annotation above this method signature(ç³Àß8ëö±åá-
+isquid:CommentedOutCodeLine3"<This block of commented-out lines of code should be removed.(èÛ‘“8¸çÀåá-
 Jsquid:S1612",Replace this lambda with a method reference.(¥ÈÌé8ƒš­åá-
+isquid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(Ñœ—È8£œÀåá-
+nsquid:CommentedOutCodeLine5"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8ñÝÍåá-
+isquid:CommentedOutCodeLine%"<This block of commented-out lines of code should be removed.(Ñœ—È8øžÉåá-

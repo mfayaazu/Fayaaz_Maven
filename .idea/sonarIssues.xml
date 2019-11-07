@@ -28,12 +28,27 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Java_cert/Question14.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/Java_cert/Question15.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/Java_cert/Question16.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Java_cert/Question17.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Java_cert/Question18.java">
           <value>
             <set />
           </value>
@@ -104,6 +119,46 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/object/E07_Incrementable.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../product-and-command-management/.delivery-engine.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../product-and-command-management/infrastructure/src/main/resources/environment/template.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../product-and-command-management/src/main/java/com/wirelesscar/pcm/clients/idkit/IdKitS3BucketUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../product-and-command-management/src/test/java/com/wirelesscar/pcm/clients/ProductActivationManagementClientTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../product-and-command-management/src/test/java/com/wirelesscar/pcm/functions/pmsptriggers/ProvisioningEventsTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../product-and-command-management/src/test/java/com/wirelesscar/pcm/functions/pmsptriggers/TriggerReprovisioningTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../vehicle-transaction-manager-lambda/.delivery-engine.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../vehicle-transaction-manager-lambda/pom.xml">
           <value>
             <set />
           </value>
