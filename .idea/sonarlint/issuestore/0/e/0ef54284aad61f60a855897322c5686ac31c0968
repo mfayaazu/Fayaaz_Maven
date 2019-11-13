@@ -1,0 +1,7 @@
+
+ksquid:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(Ì’Ù¥8ƒÒÒä-
+msquid:S2095"OUse try-with-resources or close this "InputStreamReader" in a "finally" clause.(œ€¨„8ƒÒÒä-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(–í˜úÿÿÿÿ8°ÚÏÒä-
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8°ÚÏÒä-
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£ñøµ

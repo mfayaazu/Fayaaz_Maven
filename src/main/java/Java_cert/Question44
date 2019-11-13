@@ -1,0 +1,15 @@
+Which statement is true about the DriverManager class?
+
+A.It returns an instance of Connection.
+B.it executes SQL statements against the database.
+C.It only queries metadata of the database.
+D.it is written by different vendors for their specific database.
+
+Explanation and Answer:
+Option A, using getConnection method of the DriverManager class, can connect to the repository and get the Connection object entity. This is the correct answer.
+
+Option B, Statement object can execute SQL statement.
+
+Option C, DriverManager is used to load JDBC Driver and connection database.
+
+Option D, this description describes the Driver category.

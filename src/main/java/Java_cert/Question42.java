@@ -23,3 +23,5 @@ class InstanceOfCarTest {
 // Car vehicle = Question42::new::getCar("MyCar");
   }
 }
+
+//Option C created the instance of the Car. other options give a compile time error
