@@ -1,6 +1,6 @@
 
-rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£ñøµ
-`squid:UselessImportCheck"0Remove this unused import 'java.awt.print.Book'.(ÕÓÄßúÿÿÿÿ8¸ó·Íå-
 jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¼¥‹¦úÿÿÿÿ
 [
 squid:S106"9Replace this use of System.out or System.err by a logger.(ÅÈý¹ûÿÿÿÿ8¸ó·Íå-
+`squid:UselessImportCheck"0Remove this unused import 'java.awt.print.Book'.(ÕÓÄßúÿÿÿÿ8¸ó·Íå-
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£ñøµ

@@ -1,8 +1,8 @@
 
+Jsquid:S1481",Remove this unused "vehicle" local variable.(„Ï‘…8‹£øÏå-
 isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(˜™—ˆ8 ‘üÏå-
-rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£ñøµ
-Ysquid:S1854";Remove this useless assignment to local variable "vehicle".(„Ï‘…8‹£øÏå-
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ş”öZ8 ‘üÏå-
 Fsquid:S1068"(Remove this unused "name" private field.(Ë¥¼8‹£øÏå-
 isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(º×ı¶8 ‘üÏå-
-hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ş”öZ8 ‘üÏå-
-Jsquid:S1481",Remove this unused "vehicle" local variable.(„Ï‘…8‹£øÏå-
+Ysquid:S1854";Remove this useless assignment to local variable "vehicle".(„Ï‘…8‹£øÏå-
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£ñøµ

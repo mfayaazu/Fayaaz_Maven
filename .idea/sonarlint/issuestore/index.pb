@@ -85,3 +85,11 @@ W
 'src/main/java/Java_cert/Question41.java,8\8\8891ce4e3e59c2894336f7c95de94c3bed3bb316
 W
 'src/main/java/Java_cert/Question42.java,0\c\0cbe717736fe873119f52a56df05dd2e7bca7720
+R
+"src/main/java/Java_cert/Question43,c\3\c39fd534c003fef6fd0cb3f8adb091634e2fed59
+R
+"src/main/java/Java_cert/Question44,3\8\38989e72bb89a7f8250f0d33a9b311607e00535a
+W
+'src/main/java/Java_cert/Question45.java,b\7\b756eb5f15c014b07f8b76f8dcf0e0c188e0aad0
+R
+"src/main/java/Java_cert/Question19,2\4\24e0c9c0600dde50cd9abad24ccc008a65e94864
