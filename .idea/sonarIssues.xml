@@ -343,6 +343,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$APPLICATION_CONFIG_DIR$/consoles/db/f199b133-6be0-4575-8753-cc6af18af6d7/console.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
       </map>
     </option>
   </component>

@@ -1,6 +1,7 @@
 package Java_cert;
 
 import java.sql.Connection;
+import java.sql.Driver;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 import java.sql.Statement;
@@ -9,8 +10,9 @@ public class Question29 {
     static Connection newConnection=null;
     public static Connection getDBConnection(){
         try{
-            Connection con = DriverManager.getConnection("jdbc:h2:mem:default");
+            Connection con = DriverManager.getConnection("jdbc:h2:mem:test");
             newConnection=con;
+            return newConnection;
         } catch (SQLException e) {
             System.out.println(e.getMessage());
         }
@@ -19,8 +21,8 @@ public class Question29 {
 
     public static void main(String[] args) throws SQLException {
         getDBConnection();
-        Statement st = newConnection.createStatement();
-        st.executeUpdate("INSERT INTO STUDENT VALUES (101,'PRIYANKA')");
+        Statement st =newConnection.createStatement();
+        st.executeUpdate("INSERT INTO STUDENT VALUES (103,'ANUDEEP')");
     }
 }
 

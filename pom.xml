@@ -7,6 +7,15 @@
   <groupId>Fayaaz</groupId>
   <artifactId>Fayaaz_Maven</artifactId>
   <version>1.0-SNAPSHOT</version>
+
+  <dependencies>
+    <dependency>
+      <groupId>com.h2database</groupId>
+      <artifactId>h2</artifactId>
+      <version>1.4.196</version>
+    </dependency>
+  </dependencies>
+
   <build>
     <plugins>
       <plugin>
