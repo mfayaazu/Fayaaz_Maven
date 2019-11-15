@@ -7,7 +7,7 @@ import java.sql.Statement;
 
 public class Question29 {
     static Connection newConnection=null;
-    public static Connection getDBConnection() throws SQLException{
+    public static Connection getDBConnection(){
         try{
             Connection con = DriverManager.getConnection("jdbc:h2:mem:default");
             newConnection=con;
@@ -20,7 +20,7 @@ public class Question29 {
     public static void main(String[] args) throws SQLException {
         getDBConnection();
         Statement st = newConnection.createStatement();
-        st.executeUpdate("INSERT INTO STUDENT VALUES (102,'FAYAAZ')");
+        st.executeUpdate("INSERT INTO STUDENT VALUES (101,'PRIYANKA')");
     }
 }
 

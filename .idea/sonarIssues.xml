@@ -3,6 +3,16 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/pom.xml">
           <value>
             <set />
@@ -79,6 +89,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/Java_cert/Question22.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Java_cert/Question29.java">
           <value>
             <set />
           </value>
@@ -218,6 +233,21 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Java_cert/Question50.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Java_cert/Question51">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Java_cert/Question52.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/Java_cert/Question6.java">
           <value>
             <set />
@@ -304,6 +334,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../vehicle-transaction-manager-lambda/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$APPLICATION_CONFIG_DIR$/consoles/db/867fc529-96fd-4c4d-ba7d-198943f57100/console.sql">
           <value>
             <set />
           </value>
