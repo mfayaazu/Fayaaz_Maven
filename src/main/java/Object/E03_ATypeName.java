@@ -4,7 +4,7 @@
  * into a program that compiles and
  * runs.
  ************************************************/
-package object;
+package Object;
 
 public class E03_ATypeName {
 

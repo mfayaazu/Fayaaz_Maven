@@ -1,4 +1,4 @@
-package object;
+package Object;
 //: object/E01_DefaultInitialization.java
 /****************** Exercise 1 *****************
 * Create a class containing an int and a char

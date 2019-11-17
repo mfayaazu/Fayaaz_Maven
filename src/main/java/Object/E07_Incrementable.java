@@ -3,7 +3,7 @@
  * Turn the Incrementable code fragments into a
  * working program.
  ************************************************/
-package object;
+package Object;
 
 class StaticTest {
 
