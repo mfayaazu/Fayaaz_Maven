@@ -8,22 +8,21 @@ import java.sql.Statement;
 
 public class Question52 {
 
-  public static void main(String[] args) throws SQLException {
-    Connection conn = DriverManager.getConnection("jdbc:h2:mem:test");
+    public static void main(String[] args) throws SQLException {
+        Connection conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/","root","Oct@2019");
+        String query = "SELECT ID FROM Fayaaz.EMPLOYEE";
+        try (Statement stmt = conn.createStatement()) {
+            ResultSet rs = stmt.executeQuery(query);
+            stmt.execute("SELECT ID FROM Fayaaz.CUSTOMER");
+            while (rs.next()) {
+                //process the results
+                System.out.println("Employee ID: " + rs.getInt("ID"));
+            }
 
-    try  {
-      Statement stmt = conn.createStatement();
-      String query = "SELECT ID FROM EMPLOYEE";
-      stmt.execute(query);
-      stmt.execute("SELECT ID FROM CUSTOMER");
-     /* while (rs.next()) {
-//process the results
-        System.out.println("Employee ID: "+ rs.getInt("id"));
-      }*/
-    } catch (Exception e) {
-      System.out.println (e.getMessage());
+        } catch (Exception e) {
+            System.out.println(e.getMessage());
+        }
     }
-  }
 
 }
 

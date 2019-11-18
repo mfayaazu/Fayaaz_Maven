@@ -1,16 +1,12 @@
 package Java_cert;
 
-import java.sql.Connection;
-import java.sql.Driver;
-import java.sql.DriverManager;
-import java.sql.SQLException;
-import java.sql.Statement;
+import java.sql.*;
 
 public class Question29 {
     static Connection newConnection=null;
     public static Connection getDBConnection(){
         try{
-            Connection con = DriverManager.getConnection("jdbc:h2:mem:test");
+            Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306","root","Oct@2019");
             newConnection=con;
             return newConnection;
         } catch (SQLException e) {
@@ -20,9 +16,13 @@ public class Question29 {
     }
 
     public static void main(String[] args) throws SQLException {
-        getDBConnection();
+        //getDBConnection();
+        Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306","root","Oct@2019");
+        newConnection = con;
         Statement st =newConnection.createStatement();
-        st.executeUpdate("INSERT INTO STUDENT VALUES (103,'ANUDEEP')");
+        st.executeUpdate("insert into Fayaaz.student values (102,'Abhinav')");
+
+
     }
 }
 

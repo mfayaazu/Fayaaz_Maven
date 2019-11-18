@@ -21,4 +21,4 @@ Option B, there is no such usage.
 
 Option C, the correct way to load Driver.
 
-Option D, the getDriver method of the DriverManager class is just used to retrieve the loaded Driver object.
+Option D, the getDriver method of the DriverManager class is just used to retrieve the loaded Driver Object.
