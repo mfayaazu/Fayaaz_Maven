@@ -8,6 +8,11 @@
             <set />
           </value>
         </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="/a.sql">
           <value>
             <set />
@@ -258,6 +263,36 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Java_cert/Question87.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Java_cert/Question88.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Java_cert/Question89.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Java_cert/Question90.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Java_cert/Question91.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Java_cert/Quetion88.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/Java_cert/Vehhicle.java">
           <value>
             <set />
@@ -324,6 +359,41 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../product-and-command-management/src/test/java/com/wirelesscar/pcm/functions/pmsptriggers/TriggerReprovisioningTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../product-management-hoi-man-test/.delivery-engine.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../product-management-hoi-man-test/infrastructure/src/main/resources/environment/config.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../product-management-hoi-man-test/infrastructure/src/main/resources/environment/template.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../product-management-hoi-man-test/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../product-management-hoi-man-test/src/main/java/com/wirelesscar/pcm/functions/GetCommandStatus.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../vehicle-capability-manager/infrastructure/src/main/resources/environment/template.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../vehicle-capability-manager/src/main/java/com/wirelesscar/vcm/util/VehicleIdentifierConverter.java">
           <value>
             <set />
           </value>
