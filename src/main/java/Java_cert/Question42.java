@@ -1,7 +1,7 @@
 package Java_cert;
 
 interface Question42 {
-  Car getCar(String name);
+  Q_Car getCar(String name);
 }
 class Car {
   private String name;
@@ -17,8 +17,8 @@ class InstanceOfCarTest {
 // Car auto = Car::new;
 // Car vehicle = auto::getCar("MyCar");
 //C. (Only one correct):
-    Question42 rider = Car::new;
-    Car vehicle = rider.getCar("MyCar");
+    Question42 rider = Q_Car::new;
+    Q_Car vehicle = rider.getCar("MyCar");
 //D.
 // Car vehicle = Question42::new::getCar("MyCar");
   }
