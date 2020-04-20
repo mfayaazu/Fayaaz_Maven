@@ -1,31 +1,32 @@
 package Java_cert;
 
-import java.util.function.Consumer;
 import java.util.function.Supplier;
 
 public class Question7 {
 
-  public void fly() {
-    System.out.println("Can Fly");
-  }
+    public void fly() {
+
+      System.out.println("Can Fly");
+    }
 }
 
 class Penguin extends Question7 {
 
-  public void fly() {
-    System.out.println("Cannot Fly");
-  }
+    public void fly() {
+        System.out.println("Cannot Fly");
+    }
 }
 
 class Birdie {
 
-  public static void main(String[] args) {
-    fly(() -> new Question7());
-    fly(Penguin::new);
+    public static void main(String[] args) {
+        fly(() -> new Question7());
+        fly(Penguin::new);
     }
-  static void fly(Supplier<Question7> question7Supplier) {
-    question7Supplier.get().fly();
-  }
+
+    static void fly(Supplier<Question7> question7Supplier) {
+        question7Supplier.get().fly();
+    }
 }
 
 //Option A-- Wrong Compilation error at Fly()

@@ -23,4 +23,4 @@ public class Question21 implements Runnable {
 
 //Output: 1 2 3
 
-//Correct Answer is B it prints 1 2 3
+//Correct Answer is A unpredictable order it prints 1 2 3 in

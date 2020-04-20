@@ -1,4 +1,4 @@
-package com.example.mockito;
+package Java_cert;
 
 public class Question124 {
 
@@ -19,7 +19,7 @@ public class Question124 {
 }
 
 
-/**
+/*
 
  Answer is  Match 2
 

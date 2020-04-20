@@ -1,4 +1,4 @@
-package com.example.mockito;
+package Java_cert;
 
 public class Question122 {
 
@@ -7,8 +7,7 @@ public class Question122 {
         Short s1=200;
         Integer s2=200;
         Long s3= (long) s1+s2;
-
-        String s4= (String) (s3+s2); // line2
+        long s4= s3+s2; // line2
 
         System.out.println("Sum is " + s4);
 
@@ -18,7 +17,5 @@ public class Question122 {
 
 /*
 
-Answer is D.	A ClassCastException is thrown at line n2.
-
-long cannot be casted to String
+Answer is B Compilation error fails at line 2
  */

@@ -1,4 +1,4 @@
-Which statement is true about the DriverManager class?
+    Which statement is true about the DriverManager class?
 
 A.It returns an instance of Connection.
 B.it executes SQL statements against the database.

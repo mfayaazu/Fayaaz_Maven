@@ -7,7 +7,7 @@ public class Question94 {
 
   public static void main(String[] args) {
     String date = LocalDate
-        .parse("2019-12-02")
+        .parse("2020-01-20")
         .format(DateTimeFormatter.ISO_DATE_TIME);
 
     System.out.println(date);

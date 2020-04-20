@@ -12,7 +12,7 @@ public class Question83 {
             return n.contains("red");
         };
         colors.stream()
-                .filter(c -> c.length() > 3)
+                .filter(c -> c.length() >= 3)
                 .allMatch(test);
     }
 }

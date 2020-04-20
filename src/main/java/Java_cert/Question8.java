@@ -40,5 +40,5 @@ class Rectangle extends Square {
 
 
 
-//Issues solved when I inserted super(); super.side=x and used Public in Rectangle class are method
+//Issues solved when I inserted super(); super.side=x and used Public in Rectangle class area method
 //Option E and F are correct Answers

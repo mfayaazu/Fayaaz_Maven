@@ -1,6 +1,4 @@
-package com.example.mockito;
-
-import java.util.function.DoubleToIntFunction;
+package Java_cert;
 
 public class Question123 {
 
@@ -17,10 +15,10 @@ public class Question123 {
     }
 }
 
-/**
+/*
   Else condition will be executed first
  x value will be 2 and Y will be 1
 
  Answer is  " Welcome Log 2:1 "
 
- **/
+ */

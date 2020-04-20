@@ -1,4 +1,4 @@
-package com.example.mockito;
+package Java_cert;
 
 public class Question125 {
         void readCard(int cardNo) throws Exception {
@@ -9,7 +9,7 @@ public class Question125 {
     }// line nl
 
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws Exception {
         Question125  ex = new Question125 ();
     int cardNo = 12344;
         ex.checkCard(cardNo) ; //line n2

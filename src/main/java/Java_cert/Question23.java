@@ -8,8 +8,8 @@ import java.nio.file.Paths;
 public class Question23 {
 
     public static void main(String[] args) throws IOException {
-        Path source = Paths.get("/Users/fayaazuddinalimohammad/cert-check/log.txt");
-        Path destination=Paths.get("/Users/fayaazuddinalimohammad/data/");
+        Path source = Paths.get("/Users/fayaazuddinalimohammad/cert-check/Java Projects/log.txt");
+        Path destination=Paths.get("/Users/fayaazuddinalimohammad/data/log.txt");
         Files.copy(source,destination);
     }
 }
